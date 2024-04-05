@@ -2,4 +2,3 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 Password Generator! Known as "The_Awesome_Password_Generator"
-
