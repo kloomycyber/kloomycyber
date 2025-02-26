@@ -1,1 +1,21 @@
+Hello, I'm writing to discuss my expirence setting up a small lab using Cisco devices, I'll start off by saying it's very CLI heavy but I'll walk you through the best I can.
+If you're trying to replicate this, you can. The commands are very straight-forward.
+You can also follow by using Packettracer.
 
+If you want to follow via Packettracer, you can download the application to your Windows device by going to https://netacad.com
+You can also do this on Linux but you'll have to download it using either APT or some other form of package handler
+
+
+
+The Cisco devices that I used are as followed:
+Cisco Router Series 1921, Cisco Switch Series 2050
+
+
+
+The main concepts of this project was to solidify my understanding of Basic Network Configurations and apply some of the concepts that I had previously learned but in a real
+world-application. We'll be exploring the CLI with this project, don't be scared I'll explain it so its easy to understand.
+
+When setting up a network, you'll need a couple of things:
+A Router, A switch and an ISP connection.
+
+For the sake of this tutorial we won't get into the details of other devices such as Layer 3 Switches and Routers that can perform switch capablities.
