@@ -18,17 +18,6 @@ Don't worry — it's a lab, and the only hacker here is probably me accidentally
 
 ## ✅ Router Configuration
 
-> 🟣 Note: We inspected the current configuration before proceeding to assign IP addresses manually.
-
----
-
-
-
-
-
-
-
-
 
 
 
@@ -40,6 +29,7 @@ Router(config)#do show run
 
 * 😨 Ok, now stick with me as this is going to look pretty crazy, and not your ex kinda crazy. 😨*
 
+-------------------------------------------
 Building configuration...
 
 Current configuration : 553 bytes
@@ -142,13 +132,7 @@ We see that there are two interfaces, FastEthernet0/0 and FastEthernet0/1 and th
 
 
 
-
-
-
-
-
-
-Step 2: Assigning IP Address to FastEthernet0/0
+Step 2: Assigning an IP Address to FastEthernet0/0
 
 --------------------------------------------
 Router(config)#interface fastethernet0/0
