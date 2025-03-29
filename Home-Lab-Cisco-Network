@@ -1,1 +1,27 @@
+# 🟢 Simple Network Configuration Lab
 
+This is a basic Cisco Packet Tracer home lab demonstrating foundational networking concepts.
+
+## 🔧 Objectives
+
+- Configure basic Router and Switch settings
+- Establish PC-to-PC communication (ping)
+- Implement basic IP addressing (no subnetting)
+
+## 🖥️ Devices Used
+
+- 2x PCs
+- 1x Switch
+- 1x Router
+
+## ✅ Lab Goals
+
+- Verify successful connectivity between hosts
+- Test basic network functionality
+- Gain familiarity with Packet Tracer and CLI commands
+
+---
+
+### Notes:
+- The `.pkt` file is included.
+- Screenshots and configuration files are added for clarity.
